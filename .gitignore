@@ -7,4 +7,3 @@ dist-ssr
 .idea
 .vscode
 deploy.sh
-.travis.yml
